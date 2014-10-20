@@ -3,3 +3,5 @@ C:\Users\SAM\Documents\Visual Studio 2010\Projects\МedianFilterApp\МedianFilte
 C:\Users\SAM\Documents\Visual Studio 2010\Projects\МedianFilterApp\МedianFilterApp\bin\Debug\МedianFilterApp.pdb
 C:\Users\SAM\Documents\Visual Studio 2010\Projects\МedianFilterApp\МedianFilterApp\obj\x86\Debug\МedianFilterApp.exe
 C:\Users\SAM\Documents\Visual Studio 2010\Projects\МedianFilterApp\МedianFilterApp\obj\x86\Debug\МedianFilterApp.pdb
+C:\Users\SAM\Documents\GitHub\MedianFilter\МedianFilterApp\obj\x86\Debug\МedianFilterApp.exe
+C:\Users\SAM\Documents\GitHub\MedianFilter\МedianFilterApp\obj\x86\Debug\МedianFilterApp.pdb

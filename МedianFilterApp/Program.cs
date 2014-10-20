@@ -14,8 +14,8 @@ namespace МedianFilterApp
         static void Main(string[] args)
         {
            
-            Bitmap bmp = new Bitmap("test.bmp");
-            //Bitmap bmp = new Bitmap(args[0]);
+            //Bitmap bmp = new Bitmap("test.bmp");
+            Bitmap bmp = new Bitmap(args[0]);
 
             int PCount = Environment.ProcessorCount;
 
@@ -39,8 +39,8 @@ namespace МedianFilterApp
                 Marshal.Copy(buffer[i], 0, bd.Scan0 + i * buffer[i].Length, buffer[i].Length);
             }
                 bmp.UnlockBits(bd);
-                //bmp.Save(args[1]);
-                bmp.Save("test1.bmp");
+                bmp.Save(args[1]);
+                //bmp.Save("test1.bmp");
                 bmp.Dispose();
         }
 
